@@ -1,0 +1,69 @@
+{
+  "siteId": "back-sculpting",
+  "generatedAt": "2026-06-05T15:53:12.687869",
+  "categories": [
+    "beginner-back-sculpting",
+    "advanced-back-sculpting",
+    "tips-back-sculpting",
+    "history-back-sculpting",
+    "trending-back-sculpting",
+    "tutorials-back-sculpting"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-back-sculpting",
+      "category_name": "Beginner Back Sculpting"
+    },
+    {
+      "category_slug": "advanced-back-sculpting",
+      "category_name": "Advanced Back Sculpting"
+    },
+    {
+      "category_slug": "tips-back-sculpting",
+      "category_name": "Back Sculpting Tips"
+    },
+    {
+      "category_slug": "history-back-sculpting",
+      "category_name": "Back Sculpting History"
+    },
+    {
+      "category_slug": "trending-back-sculpting",
+      "category_name": "Trending Back Sculpting"
+    },
+    {
+      "category_slug": "tutorials-back-sculpting",
+      "category_name": "Back Sculpting Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "back-sculpting",
+    "color_scheme": {
+      "name": "Midnight Teal",
+      "primary": "#0d9488",
+      "secondary": "#14b8a6",
+      "accent": "#5eead4",
+      "background": "#f0fdfa",
+      "text": "#134e4a",
+      "light": "#ccfbf1"
+    },
+    "font": {
+      "name": "Roboto",
+      "family": "'Roboto', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');"
+    },
+    "layout": "centered-wide",
+    "border_radius": "24px",
+    "box_shadow": "0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06)",
+    "article_card_style": "card",
+    "header_style": "classic",
+    "footer_style": "simple",
+    "modules": [
+      "about-widget",
+      "social-links",
+      "stats-widget"
+    ],
+    "site_title": "Back Sculpting Central",
+    "articles_per_row": 4
+  }
+}
